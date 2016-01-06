@@ -7,6 +7,7 @@ $ git clone https://github.com/thestrangeagency/blog.git
 $ cd blog
 $ bower install
 $ npm install
+$ gem install jekyll
 $ gulp serve
 ```
 
