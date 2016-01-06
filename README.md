@@ -3,10 +3,6 @@
 ### Development
 
 ```
-$ gulp
-```
-
-```
 $ git clone https://github.com/thestrangeagency/blog.git
 $ cd blog
 $ bower install
