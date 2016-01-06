@@ -1,0 +1,21 @@
+---
+layout: default
+regenerate: true
+---
+
+<div class="row">
+  <div class="col s12">
+    <ul class="post-list">
+        {% for post in site.posts %}
+          <li class="card-panel hoverable">
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+            <h2>
+              <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
+            {{ post.excerpt }}
+          </li>
+        {% endfor %}
+      </ul>
+  </div>
+</div>
