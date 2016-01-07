@@ -2,7 +2,7 @@
 # Can be used in your theme by calling 'site.title' and so on
 name: The Strange Agency Blog
 description: The Strange Agency's Development Blog
-url: blog.thestrangeagency.com
+url: blog.strange.agency
 
 # Used so Jekyll outputs the site correctly so Gulp can do what it wants
 source: app
@@ -30,8 +30,8 @@ lsi: false
 limit_posts: 10
 
 # Permalink structure and pagination options
-permalink: none
-paginate: 10
+permalink: /:year/:month/:day/:title/
+paginate: 5
 paginate_path: 'page:num'
 excerpt_separator: '<!--more-->'
 
