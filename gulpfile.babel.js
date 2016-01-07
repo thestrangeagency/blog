@@ -138,7 +138,7 @@ gulp.task('serve', ['jekyll', 'styles', 'fonts'], () => {
     '.tmp/fonts/**/*'
   ]).on('change', reload);
 
-  gulp.watch(['app/**/*.md', 'app/**/*.html', 'app/**/*.yml'], ['jekyll', reload]);
+  gulp.watch(['app/**/*.md', 'app/**/*.html', 'app/**/*.yml', '_config.yml'], ['jekyll', reload]);
   gulp.watch(['app/**/*.xml', 'app/**/*.txt'], ['jekyll']);
   gulp.watch('app/styles/**/*.scss', ['styles']);
   gulp.watch('app/fonts/**/*', ['fonts']);
