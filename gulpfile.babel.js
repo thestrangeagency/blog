@@ -191,7 +191,9 @@ gulp.task('wiredep', () => {
 // 'gulp deploy' -- pushes dist folder to Github
 gulp.task('deploy', () => {
   return gulp.src('dist/**/*')
-    .pipe($.ghPages());
+    .pipe($.ghPagesCname({
+      cname: 'blog.strange.agency'
+    }));
 });
 
 gulp.task('build', ['lint', 'jekyll:prod', 'images', 'fonts', 'bower-images', 'extras'], () => {
