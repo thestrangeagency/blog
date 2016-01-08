@@ -3,7 +3,7 @@ layout: post
 date: 2016-01-01
 title:  Sample Post 1
 categories: tutorial
-tags: nodejs, angular, jekyll
+tags: [nodejs, angular, jekyll]
 ---
 
 Narrative ablative A.I. boy silent systemic girl 8-bit cardboard-space physical hacker. Vehicle narrative rebar rifle tanto assault advert youtube urban numinous nodal point sensory marketing jeans. Network dead car wristwatch city nano-apophenia advert stimulate silent papier-mache cardboard alcohol vehicle cyber-carbon shoes. Gang long-chain hydrocarbons table jeans cardboard tube knife RAF sprawl augmented reality j-pop plastic drone market soul-delay film futurity. Apophenia futurity weathered camera paranoid decay faded physical refrigerator.

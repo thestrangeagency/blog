@@ -3,7 +3,7 @@ layout: post
 date: 2016-01-04
 title:  Sample Post 2
 categories: tutorial
-tags: nodejs, angular, jekyll
+tags: [nodejs, angular, jekyll]
 ---
 
 Tiger-team silent 3D-printed narrative assassin drugs futurity military-grade bomb shrine dolphin denim pen media tower. Papier-mache sprawl car tank-traps tanto garage media corrupted systema otaku refrigerator assassin drugs systemic rain faded. Post-car render-farm digital marketing network cartel corrupted semiotics towards nodal point vehicle drone dead lights. Denim footage j-pop sunglasses advert pre-dead-space bridge tube Tokyo savant city smart-girl long-chain hydrocarbons engine. Semiotics warehouse fetishism computer camera singularity denim A.I. boat. Narrative office soul-delay girl shanty town car footage neural urban post-RAF beef noodles convenience store face forwards cartel sentient. Uplink semiotics cartel face forwards spook film denim vehicle physical otaku BASE jump fluidity. Neon nodality wonton soup assassin DIY dome dolphin refrigerator man silent.

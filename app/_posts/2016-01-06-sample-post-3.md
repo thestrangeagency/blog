@@ -2,8 +2,8 @@
 layout: post
 date: 2016-01-06
 title:  Sample Post 3
-categories: tutorial
-tags: nodejs, angular, jekyll
+categories: sample
+tags: [nodejs, angular, jekyll]
 ---
 
 Post-receding DIY free-market refrigerator corporation girl dolphin numinous chrome order-flow crypto. Drone assassin vehicle tattoo human apophenia garage voodoo god singularity hotdog shrine pistol artisanal knife nodal point bomb. Rain concrete camera franchise singularity artisanal ablative shrine apophenia bicycle. Katana receding nodal point jeans otaku long-chain hydrocarbons tower assassin corporation narrative engine post-grenade. Shibuya girl stimulate tanto smart-fetishism plastic. Pistol bridge skyscraper computer film kanji Tokyo. Hacker denim modem claymore mine beef noodles dissident face forwards gang singularity neural papier-mache free-market media katana 8-bit corporation. BASE jump long-chain hydrocarbons semiotics tiger-team euro-pop silent soul-delay physical network tank-traps-ware knife kanji. Dome disposable futurity corporation table augmented reality network human tattoo youtube drugs woman-ware tank-traps dead digital saturation point.
