@@ -4,10 +4,10 @@ regenerate: true
 ---
 
 <div class="row">
-  <div class="col s12">
+  <div class="col s12 l9">
     <ul class="post-list">
         {% for post in paginator.posts %}
-          <li class="card-panel hoverable">
+          <li class="">
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
             <h2>
@@ -41,4 +41,5 @@ regenerate: true
         </ul>
       {% endif %}
   </div>
+  {% include nav.html %}
 </div>

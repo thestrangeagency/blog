@@ -2,12 +2,21 @@
 layout: default
 ---
 
-<h2>Archive of posts with {{ page.type }} '{{ page.title }}'</h2>
-<ul class="posts">
-  {% for post in page.posts %}
-    <li>
-      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<div class="row">
+  <div class="col s12 l9">
+  	<h2>{{ page.type }}: '{{ page.title }}'</h2>
+    <ul class="post-list">
+        {% for post in page.posts %}
+          <li class="">
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+            <h2>
+              <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
+            {{ post.excerpt }}
+          </li>
+        {% endfor %}
+      </ul>
+  </div>
+  {% include nav.html %}
+</div>
